@@ -6,7 +6,7 @@
 
 ## Projects
 ### Blood-Cell Image Classification
-[Blood Cell Classification Methods and Findings](blood_cell_classification.pdf)
+[Blood Cell Classification Methods and Findings](Blood Cell Classification Methods and Findings.pdf)
 
 Ideated and implemented an image processing pipeline to extract novel feature vectors and perform dimensionality reduction for images of healthy blood cells. Built multiple simple and deep learning classification models using **TensorFlow**. Achieved 94% test accuracy. 
 
