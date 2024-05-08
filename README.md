@@ -15,7 +15,7 @@ Ideated and implemented an image processing pipeline in **Python** to extract no
 
 Coordinated a team of four graduate students to develop predictive models of gloabl time-series data using Keras, TensorFlow, and SKLearn libraries. Demonstrated a 51% decrease in prediction error from the baseline model. Trained and evaluated linear regression, random forest, and feed forward neural network models to forecast land surface temperature change from agricultural carbon emissions. 
 
-[Patterns in Land Surface Tempature and Agricultural Emissions](blood_cell_classification.pdf)
+[Patterns in Land Surface Tempature and Agricultural Emissions](ag_emissions.pdf)
 
 
 
