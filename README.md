@@ -13,7 +13,7 @@ Coordinated a team of four graduate students to explore potential correlations b
 
 [Summary of Data and Model Design](ag_emissions.pdf)
 
-### [End-to-End Machine Learning API](https://github.com/fayesimone/End_to_End_ML_API/blob/main/README.md)
+### End-to-End Machine Learning API
 Developed a FastAPI Application in Python to serve two machine learning models: an SVM for housing price predictions and a pre-trained transformer model from HuggingFace for natural language sentiment analysis. Utilized Docker and Poetry for application and package management. Defined Kubernetes deployment and services from scratch and leveraged minikube for local development and testing. Deployed the application using Azure Kubernetes Services to simulate a real-world production environment. Performed load testing and monitored application performance using Prometheus and Grafana K6.  
 
 ![Incoming Request Duration During Load Testing](/imgs/request_dur_project.png)
