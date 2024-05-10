@@ -19,8 +19,8 @@ Developed a FastAPI Application in Python to serve two machine learning models: 
 ![Incoming Request Duration During Load Testing](/imgs/request_dur_project.png)
 *Request duration during appliction load testing.*
 
-
-
+### Delivery Route Optimization Using Graph DB and Algorithms
+Evaluated optimal delivery routes using Bay Area Regional Transport (BART) system for theortical prescription drug distribution company. Built Neo4j graph databse to define relationships between geographic coordinates and transportation times between BART stations. Used a combination of Python, Pandas, and SQL to query and extract results from built-in Neo4j graph algorithms. Employed Louvain Modularity to define logical groupings of BART stations and cross-referenced against regional population density data to identify optimal pick up locations within groupings. Utilized Dijkstra's Shortest Path algorithm to determine shortest paths from the distribution center (source node) to each of the pick up locations. 
 
 
 
