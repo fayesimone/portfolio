@@ -1,5 +1,11 @@
 # Projects
 
+## CliMistral: Fine-Tuned Mistral Model for Climate Q&A
+
+Domain fine-tuned the pre-trained Mistral Instruct large language model for climate QA generation using **Pytorch**. Leveraged QLoRA parameter-efficient fine-tuning methodology to reduce compute resources needed for training and reduce model energy consumption. Clearly communicated complex machine learning techniques and results both verbally and in written report to a technical audience of peers and professors.
+
+[CliMistral Furthering Efficiency and Capabilities of Large Language Models in the Climate Domain](climistral.pdf)
+
 
 ## Blood Cell Classification
 ![Histogram of Oriented Gradient Feature Extraction By Class](/imgs/hog_example.png)
