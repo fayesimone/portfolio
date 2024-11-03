@@ -13,6 +13,7 @@ Domain fine-tuned the pre-trained Mistral Instruct large language model for clim
 [CliMistral Furthering Efficiency and Capabilities of Large Language Models in the Climate Domain](climistral.pdf)
 
 <br />
+
 ## Blood Cell Classification
 ![Histogram of Oriented Gradient Feature Extraction By Class](/imgs/hog_example.png)
 *Visualizing feature extraction for histogram of oriented gradients by blood cell class.*
@@ -23,6 +24,7 @@ Ideated and implemented an image processing pipeline in **Python** to extract no
 [Blood Cell Classification Methods and Results](blood_cell_classification.pdf)
 
 <br />
+
 ## End-to-End Machine Learning API
 Developed a **FastAPI** Application in **Python** to serve two machine learning models: an SVM for housing price predictions and a pre-trained transformer model from HuggingFace for natural language sentiment analysis. Utilized **Docker** and Poetry for application and package management. Defined **Kubernetes** deployment and services from scratch and leveraged minikube for local development and testing. Deployed the application using **Azure Kubernetes Services** to simulate a real-world production environment. Performed load testing and monitored application performance using Prometheus and Grafana K6.  
 
@@ -30,6 +32,7 @@ Developed a **FastAPI** Application in **Python** to serve two machine learning 
 *Request duration during appliction load testing.*
 
 <br />
+
 ## Supervised Machine-Learning Modeling of Changes in Land Surface Temperature based on Agricultural Emissions
 Coordinated a team of four graduate students to explore potential correlations between magnitude of agricultural carbon emissions and global land surface temperature. Built and optimized machine learning models using **Keras**, **TensorFlow**, and **SKLearn libraries**. While we succesfully acheived a 51% decrease in prediction error from the baseline model by implementing deep learning and model optimization techniques, our findings reaffirmed the complexity of climate and emission modeling. Additionally, our research highlighted the limitations of and disparities in carbon accounting methods from country to country. 
 
