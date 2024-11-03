@@ -5,6 +5,7 @@
 Led strategic vision and technical implementation of semantic segmentation model for detection of corn and soybean cropland defects from multi-spectral aerial imagery. Utilized both structured and unstructured data. Built training pipeline using **Python**, **Pytorch**, and **Transformers** training API for fine-tuning SegFormer model. Utilized **AWS SageMaker** for data management, model training, validation, and endpoint hosting. Engaged with industry stakeholders to tailor frontend user interface to meet small-scale farmers’ needs.
 
 <br />
+
 ## CliMistral: Fine-Tuned Mistral Model for Climate Q&A
 
 Domain fine-tuned the pre-trained Mistral Instruct large language model for climate QA generation using **Pytorch**. Leveraged QLoRA parameter-efficient fine-tuning methodology to reduce compute resources needed for training and reduce model energy consumption. Clearly communicated complex machine learning techniques and results both verbally and in written report to a technical audience of peers and professors.
