@@ -1,4 +1,4 @@
-# Projects
+# Applied Machine Learning Projects
 
 ## AgriMed: Semantic Segmentation for Cropland Diagnostics
 
