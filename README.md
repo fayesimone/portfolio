@@ -1,5 +1,9 @@
 # Projects
 
+## AgriMed: Semantic Segmentation for Cropland Diagnostics
+
+Led strategic vision and technical implementation of semantic segmentation model for detection of corn and soybean cropland defects from multi-spectral aerial imagery. Utilized both structured and unstructured data. Built training pipeline using **Python**, **Pytorch**, and **Transformers** training API for fine-tuning SegFormer model. Utilized **AWS SageMaker** for data management, model training, validation, and endpoint hosting. Engaged with industry stakeholders to tailor frontend user interface to meet small-scale farmers’ needs.
+
 ## CliMistral: Fine-Tuned Mistral Model for Climate Q&A
 
 Domain fine-tuned the pre-trained Mistral Instruct large language model for climate QA generation using **Pytorch**. Leveraged QLoRA parameter-efficient fine-tuning methodology to reduce compute resources needed for training and reduce model energy consumption. Clearly communicated complex machine learning techniques and results both verbally and in written report to a technical audience of peers and professors.
@@ -27,10 +31,3 @@ Developed a **FastAPI** Application in **Python** to serve two machine learning 
 Coordinated a team of four graduate students to explore potential correlations between magnitude of agricultural carbon emissions and global land surface temperature. Built and optimized machine learning models using **Keras**, **TensorFlow**, and **SKLearn libraries**. While we succesfully acheived a 51% decrease in prediction error from the baseline model by implementing deep learning and model optimization techniques, our findings reaffirmed the complexity of climate and emission modeling. Additionally, our research highlighted the limitations of and disparities in carbon accounting methods from country to country. 
 
 [Summary of Data and Model Design](ag_emissions.pdf)
-
-
-## Delivery Route Optimization Using Graph DB and Algorithms
-Evaluated optimal delivery routes using Bay Area Regional Transport (BART) system for theortical prescription drug distribution company. Built **Neo4j** graph databse to define relationships between geographic coordinates and transportation times between BART stations. Used a combination of **Python**, **Pandas**, and **SQL** to query and extract results from built-in Neo4j graph algorithms. Employed Louvain Modularity to define logical groupings of BART stations and cross-referenced against regional population density data to identify optimal pick up locations within groupings. Utilized Dijkstra's Shortest Path algorithm to determine shortest paths from the distribution center (source node) to each of the pick up locations. 
-
-
-
