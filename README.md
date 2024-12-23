@@ -2,7 +2,9 @@
 
 ## AgriMed: Semantic Segmentation for Cropland Diagnostics
 
-Led strategic vision and technical implementation of semantic segmentation model for detection of corn and soybean cropland defects from multi-spectral aerial imagery. Utilized both structured and unstructured data. Built training pipeline using **Python**, **Pytorch**, and **Transformers** training API for fine-tuning SegFormer model. Utilized **AWS SageMaker** for data management, model training, validation, and endpoint hosting. Engaged with industry stakeholders to tailor frontend user interface to meet small-scale farmers’ needs.
+Led strategic vision and technical implementation of semantic segmentation model for detection of corn and soybean cropland defects from multi-spectral aerial imagery. Utilized both structured and unstructured data. Built training pipeline using **Python**, **Pytorch**, and **Transformers** training API for fine-tuning SegFormer model. Utilized **AWS SageMaker** for data management, model training, validation, and endpoint hosting. Engaged with industry stakeholders to tailor frontend user interface to meet small-scale farmers’ needs. 
+
+[Project Page & Demo](https://sites.google.com/berkeley.edu/agrimed/home)
 
 ![SegFormer Architecture](/imgs/segformer.png)
 *Overview of SegFormer, architecture modifications, and evaluation metric.*
